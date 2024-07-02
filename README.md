@@ -38,13 +38,13 @@ Hi 👋, I'm Karan Singh</h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karansingh2002&show_icons=true&locale=en&layout=compact" alt="karansingh2002" /></p>
-<p align="left"> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karansingh2002&show_icons=true&locale=en&layout=compact" alt="karansingh2002" /></p>
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=karansingh2002&label=Profile%20views&color=0e75b6&style=flat" alt="karansingh2002" />
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="300">
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
