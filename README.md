@@ -43,7 +43,7 @@ Hi 👋, I'm Karan Singh</h1>
   <img src="https://komarev.com/ghpvc/?username=karansingh2002&label=Profile%20views&color=0e75b6&style=flat" alt="karansingh2002" />
 </p>
 
-<div align="right">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="500">
 </div>
 
